@@ -1,0 +1,19 @@
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.exe.config
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.exe
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.pdb
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.AssemblyReference.cache
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.Properties.Resources.resources
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.GenerateResource.cache
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.CoreCompileInputs.cache
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.exe
+C:\Users\brozi\source\repos\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.pdb
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.exe.config
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.exe
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\bin\Debug\TransportNetworkEditor.pdb
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.AssemblyReference.cache
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.Properties.Resources.resources
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.GenerateResource.cache
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.csproj.CoreCompileInputs.cache
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.exe
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.pdb
+C:\Users\brozi\Desktop\Ročníkový projekt - kopie\TransportNetworkEditor\TransportNetworkEditor\obj\Debug\TransportNetworkEditor.Form1.resources
